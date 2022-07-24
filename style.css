@@ -1,0 +1,29 @@
+/* font--- */
+
+
+body{
+    
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+/* Start header section area--- */
+
+.header-left{
+    margin-left:11%;
+}
+.header-left h3{
+    font-size: 31px;
+    font-weight: bold;
+}
+
+.header-right{
+    margin-left: 15%;
+}
+
+.header-right a{
+    text-decoration: none;
+    font-size: 20px;
+    margin:15px;
+   color: black;
+   font-weight: bold;
+}
